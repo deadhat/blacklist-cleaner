@@ -1,5 +1,5 @@
 # Blacklist Cleaner
-#### Working with WOT 2.1
+#### Working with WOT 2.2.0.0
 
 	1. Install the mod to your World of Tanks main folder.
 	2. Start the game and load into your hangar.
