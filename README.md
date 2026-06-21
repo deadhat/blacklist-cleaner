@@ -29,9 +29,9 @@ Lists everyone on your friends list who doesn't have *you* as a friend — peopl
 
 ## Installation
 
-1. Download `mod_contact_cleaner.py` and copy it into your World of Tanks **mods** folder for your current game version:
-   `World_of_Tanks/mods/<version>/`
-2. Start the game and load into your hangar.
+1. Download the latest `contact_cleaner_*.zip`.
+2. Extract it into your `World_of_Tanks/` folder — the archive already contains the correct folder structure, so the mod lands in the right place automatically.
+3. Start the game and load into your hangar.
 
 > **Requires** the OldSkool `modsCore`. Without it the mod disables itself and prints a notice to `python.log`.
 
@@ -57,11 +57,3 @@ On Mac, `Option` is the key next to `Command`.
 ### Debug
 
 Press `ALT + F9` in the hangar to dump every contact and its raw tags to `python.log`. Useful for troubleshooting or verifying what a cleanup would target before running it.
-
----
-
-## Author
-
-Made by **OldSkool** for the [IG-Oldskool](https://github.com/deadhat) community.
-
-Issues and suggestions are welcome via the issue tracker.
